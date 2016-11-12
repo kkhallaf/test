@@ -1,0 +1,6 @@
+how to upgrade wkhtmlpdf 
+
+
+sudo add-apt-repository ppa:ecometrica/servers
+sudo apt-get update
+sudo apt-get install wkhtmltopdf  
